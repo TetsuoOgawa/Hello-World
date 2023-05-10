@@ -10,3 +10,5 @@ Hello-World
 - test_4についてのREADME
 ## test_6
 - test_6についてのREADME
+## test_7
+- test_7についてのREADME
