@@ -3,7 +3,7 @@ public class test {
     System.out.println(getTest_1());
     System.out.println(getTest_2());
   }
-  
+
   public static String getTest_1() {
     return "test_1";
   }
