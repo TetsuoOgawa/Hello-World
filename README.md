@@ -8,3 +8,5 @@ Hello-World
 - test_3についてのREADME
 ## test_4
 - test_4についてのREADME
+## test_7
+- test_7についてのREADME
