@@ -10,5 +10,9 @@ public class main {
   public static void main_3(String[] args) {
     System.out.println("main_3");
   }
+
+  public static void main_4(String[] args) {
+    System.out.println("main_4");
+  }
   
 }
