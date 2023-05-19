@@ -40,4 +40,8 @@ public class test {
   public static String getTest_9() {
     return "test_9";
   }
+
+  public static String getTest_10() {
+    return "test_10";
+  }
 }
