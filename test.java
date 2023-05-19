@@ -48,4 +48,8 @@ public class test {
   public static String getTest_11() {
     return "test_11";
   }
+
+  public static String getTest_12() {
+    return "test_12";
+  }
 }
